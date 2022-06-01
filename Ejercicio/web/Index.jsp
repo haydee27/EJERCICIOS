@@ -12,8 +12,14 @@
         <title>JSP Page</title>
     </head>
     <body>
+        
         <h1>REGISTRO DE TABLA</h1>
         <form action="recibir.do" method="POST">
+            
+            ID: <input type="text"
+            <input type="submit" value="Agregar registro" name="btn1" />
+            <input type="submit" value="ver registro" name="btn2" />
+            <input type="submit" value="ver eliminar registro" name="btn2" />
            
             
        <p>  Por favor introduce la información </p>     
