@@ -16,6 +16,7 @@
         <form action="recibir.do" method="POST">
             <input type="submit" value="Agregar registro" name="btn1" />
             <input type="submit" value="ver registro" name="btn2" />
+            <input type="submit" value="ver eliminar registro" name="btn2" />
            
             
            
